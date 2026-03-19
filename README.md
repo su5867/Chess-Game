@@ -30,7 +30,7 @@ A modern chess game built with React, TypeScript, and Vite.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/su5867/Chess-Game.git
 cd chess-game
 ```
 
@@ -38,7 +38,9 @@ cd chess-game
 ```bash
 npm install
 ```
-
+3. Live Deeployment:
+   https://chess-game-nine-henna.vercel.app/
+   
 ### Running the Development Server
 
 Start the development server:
